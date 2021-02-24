@@ -1,8 +1,3 @@
-# PythonMidi  
- Play custom MIDI tone using Python    
-  
-  
-'''python
 from pymidi.winmidi import Midi
 from pymidi.values import Keys, Instruments
 
@@ -80,4 +75,3 @@ m.ChordOn(keys=chord1, channel=2)
 m.PlayNote(pitch=Keys.C5, channel=1)
 m.ChordOff(keys=chord1, channel=2)
 
-'''
