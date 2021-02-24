@@ -34,7 +34,7 @@ Line-13, 17 will play the given key on key-channel for 1 seconds by default.
   
   
 ## Developed by:
-** 1. Arnav Mukhopadhyay**  
-** 2. Ruby Jane Pedronan Agullana**  
+**1. Arnav Mukhopadhyay**  
+**2. Ruby Jane Pedronan Agullana**  
   
 #midi #python #computermusic #instrumental #programming  
