@@ -2,7 +2,7 @@
  Play custom MIDI tone using Python    
   
   
-'''python
+```python
 from pymidi.winmidi import Midi
 from pymidi.values import Keys, Instruments
 
@@ -23,6 +23,4 @@ m.ChordOff(keys=chord1, channel=2)
 m.ChordOn(keys=chord2, channel=2)
 m.PlayNote(pitch=Keys.D5, channel=1)
 m.ChordOff(keys=chord2, channel=2)
-
-
-'''
+```
